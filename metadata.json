@@ -1,0 +1,6 @@
+{
+  "name": "XGBoost ML Studio - Naive Bayes Data",
+  "description": "Ứng dụng phân tích dữ liệu, tiền xử lý, huấn luyện mô hình XGBoost và dự đoán phân loại cho tập dữ liệu Naive-Bayes-Classification-Data.csv",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
